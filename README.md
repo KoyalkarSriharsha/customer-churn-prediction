@@ -47,16 +47,6 @@ Risk Scoring → Explainability → Dashboard
 
 ---
 
-## 📊 Dashboard Preview
-
-Add screenshots of:
-- Executive KPIs
-- Churn risk distribution
-- Survival curve
-- SHAP feature importance
-
----
-
 ## ⚙ Tech Stack
 
 **Languages & ML**
@@ -85,9 +75,6 @@ The system enables organizations to:
 - Launch targeted retention campaigns  
 - Protect recurring revenue  
 - Understand churn drivers  
-
-**Sample Output:**  
-> Annual Revenue At Risk Identified: $XXX,XXX
 
 ---
 
@@ -128,4 +115,4 @@ streamlit run dashboard/app.py
 
 **Koyalkar Sri Harsha**  
 MBA – Business Analytics  
-Aspiring Data Scientist | Machine Learning & Analytics
+Aspiring Data Analyst | Machine Learning & Analytics
